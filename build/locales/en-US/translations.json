@@ -1,0 +1,91 @@
+{
+  "login": {
+    "title": "Login Panel",
+    "username": "User Name",
+    "password": "Password",
+    "server": "Server",
+    "login": "Login",
+    "help": "help",
+    "support": "support",
+    "about": "about"
+  },
+  "user_button": {
+    "profile": "Profile",
+    "account": "Account",
+    "logout": "Logout"
+  },
+  "rate_tab": {
+    "rates": "Rates",
+    "quotes": "Quotes"
+  },
+  "rates": {
+    "symbol": "Symbol",
+    "ask": "Ask",
+    "bid": "Bid"
+  },
+  "trading_tab": {
+    "orders": "Orders",
+    "positions": "Positions",
+    "history": "History",
+    "news": "News"
+  },
+  "orders": {
+    "id": "ID",
+    "name": "Name",
+    "status": "Status"
+  },
+  "footer": {
+    "account": "Account",
+    "balance": "Balance"
+  },
+  "description": {
+    "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
+    "part2": "Switch language between english and german using buttons above."
+  },
+  "editor": {
+    "BLOCKS": "BLOCKS",
+    "COMMON": "COMMON",
+    "OPTIONS": "OPTIONS",
+    "Common options": "Common options",
+    "URL": "URL",
+    "Link": "Link",
+    "Color": "Color",
+    "Paddings": "Paddings",
+    "Border radius": "Image border radius",
+    "Background": "Background",
+    "Template background": "Template background",
+    "Button background": "Button background",
+    "Button border radius": "Button border radius",
+    "Nothing selected": "Nothing selected",
+    "Undo changes": "Undo changes",
+    "Redo changes": "Redo changes",
+    "Save template": "Save template",
+    "Enter email": "Enter email",
+    "Template name": "Template name",
+    "Send test email": "Send test email",
+    "Delete selected block": "Delete selected block",
+    "Add paddings": "Add paddings",
+    "Text": "Text",
+    "Type": "Type",
+    "Align": "Align",
+    "Height": "Height",
+    "Show separator": "Show separator",
+    "Font size": "Font size",
+    "Font family": "Font family",
+    "left": "left",
+    "right": "right",
+    "center": "center",
+    "Image size": "Image size",
+    "Image position": "Image position",
+    "Icons type": "Icons type",
+    "small": "small",
+    "middle": "middle",
+    "big": "big",
+    "Icons area size": "Icons area size",
+    "Icons position": "Icons position",
+    "Like": "Like",
+    "Dislike": "Dislike",
+    "Neutral": "Neutral",
+    "Custom style": "Custom style"
+  }
+}

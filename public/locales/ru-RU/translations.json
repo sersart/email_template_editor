@@ -1,0 +1,45 @@
+{
+  "login": {
+    "title": "Панель входа",
+    "username": "Имя пользователя",
+    "password": "Пароль",
+    "server": "Сервер",
+    "login": "Логин",
+    "help": "Помощь",
+    "support": "Поддержка",
+    "about": "Компания"
+  },
+  "user_button": {
+    "profile": "Профиль",
+    "account": "Счет",
+    "logout": "Выйти"
+  },
+  "rate_tab": {
+    "rates": "Ставки",
+    "quotes": "Котировки"
+  },
+  "rates": {
+    "symbol": "Сумвол",
+    "ask": "Покупка",
+    "bid": "Продажа"
+  },
+  "trading_tab": {
+    "orders": "Заказы",
+    "positions": "Позиции",
+    "history": "История",
+    "news": "Новости"
+  },
+  "orders": {
+    "id": "ID",
+    "name": "Имя",
+    "status": "Статус"
+  },
+  "footer": {
+    "account": "Счет",
+    "balance": "Баланс"
+  },
+  "description": {
+    "part1": "To get started, edit <1>src/App.js</1> and save to reload.",
+    "part2": "Руский Switch language between english and german using buttons above."
+  }
+}
